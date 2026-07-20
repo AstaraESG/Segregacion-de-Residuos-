@@ -1,0 +1,44 @@
+nombre,tacho,sinonimos,nota
+Papel impreso o de oficina,reciclable,papel|hoja|hoja impresa|papel de oficina|hojas|papel bond,Debe estar limpio y seco
+Papel kraft,reciclable,kraft|papel kraft|bolsa kraft,Limpio y seco
+Revista o periodico,reciclable,revista|periodico|diario,Limpio y seco
+Caja de carton,reciclable,caja|carton|caja de carton|caja de courier|caja de delivery|caja de zapatos|cuaderno|libreta,Desarmala o doblala antes de botarla debe estar limpia y seca
+Botella de plastico,reciclable,botella|botella de agua|botella de gaseosa|botella pet|agua|gaseosa|coca cola|inca kola|cielo|san luis|pet,Vaciala enjuagala y secala antes de botarla
+Envase plastico de comida o taper,reciclable,tupper|taper|tapper|fiambrera|envase plastico|envase de comida|vaso de yogurt,Enjuagalo y sacalo debe quedar sin restos de comida
+Plastico film o bolsa plastica,reciclable,film plastico|bolsa plastica|bolsa de plastico|wrap|plastico film|envoltura plastica transparente|bolsa del super,Limpio y seco
+Plastico burbuja,reciclable,plastico burbuja|papel burbuja|burbujas|embalaje con burbujas,Limpio y seco
+Cubiertos de plastico flexibles que no se rompen al doblar,reciclable,cubiertos flexibles|cubiertos que no se rompen|cubiertos doblables|cubiertos blandos,Hazles la prueba doblalos si no se rompen van aqui
+Lata de bebida,reciclable,lata|lata de gaseosa|lata de cerveza|aluminio|lata de energizante|red bull,Enjuagala antes de botarla
+Lata de conserva o atun,reciclable,lata de atun|lata de conserva|lata de sardina|conserva,Enjuagala antes de botarla
+Envase o botella de vidrio entera,reciclable,frasco|frasco de vidrio|botella de vidrio|envase de vidrio|vidrio|copa,Debe estar entera no rota enjuagala
+Tetra Pak,reciclable,caja de leche|tetrapak|tetra pak|envase de jugo|caja de jugo|leche|caja de leche|rehidratante,Enjuagalo y aplastalo
+Restos de comida cruda o cocida,organico,comida|sobras|restos de almuerzo|restos de comida|comida sobrante|plato de comida,Al balde de organicos sin bolsa ni empaque
+Cascara de fruta,organico,cascara|cascara de platano|cascara de naranja|cascara de manzana|piel de fruta|fruta,
+Cascara de verdura,organico,cascara de papa|cascara de zanahoria|verdura|vegetal,
+Cascara de huevo,organico,cascara de huevo|huevo|cascaron,
+Restos carnicos,organico,hueso|huesos|carne|pollo|restos de carne|espina,
+Borra de cafe,organico,borra de cafe|residuo de cafe|cafe molido usado|posos,Solo el molido de cafe sin la bolsa filtrante ni el hilo
+Cubiertos o vajilla de bambu o caña,organico,cubiertos de bambu|cubiertos de caña|vajilla de bambu|palitos de bambu,
+Vaso de cafe descartable,general,vaso de carton|vaso descartable|vaso starbucks|vaso cafe|cafe|starbucks|vaso de coffee|vaso to go|polipapel,Parece carton pero tiene una capa interna plastificada aunque diga biodegradable va a general
+Empaque compostable o biodegradable,general,empaque biodegradable|empaque compostable|envase compostable|bioplastico,Si el interior se siente suave o plastificado al tacto no se recicla aunque diga compostable
+Cubiertos de plastico descartable,general,cubiertos descartables|tenedor plastico|cuchara plastica|cuchillo plastico|cubiertos|cubiertos rigidos,Hazles la prueba doblalos si se rompen van a general si no se rompen van a reciclable
+Bolsita de te usada,general,bolsa de te|te usado|saquito de te|filtrante,La bolsita y el hilo van a general si separas solo las hojas sueltas esas si van al balde de organicos
+Servilleta usada,general,servilleta|papel servilleta|servilletas sucias,
+Papel toalla usado,general,papel toalla|toalla de papel,
+Papel higienico usado,general,papel higienico|papel baño,
+Envoltura de snack sachet o salsa,general,envoltura|bolsa de snack|paquete de papas|sachet|sobre de salsa|envoltorio metalizado|piqueo|bolsa de piqueo,
+Plato o vaso de tecnopor,general,tecnopor|plato tecnopor|icopor|vaso tecnopor|poliestireno|plastico 6|plastico numero 6,
+Envase acrilico o plastico rigido tipo 7,general,acrilico|plastico rigido transparente|plastico numero 7|plastico 7,
+Vaso plato o vidrio roto,general,vaso roto|plato roto|vidrio roto|copa rota|taza rota|ceramica rota,Por seguridad el vidrio o ceramica rota va a general nunca a reciclables envuelvelo antes de botarlo
+Lapicero o plumon,general,lapicero|lapiceros|plumon|plumones|boligrafo,
+Capsula de cafe,general,capsula de cafe|capsula nespresso|capsula dolce gusto,
+Voucher o comprobante termico,general,voucher|boleta termica|ticket|comprobante,
+Globo,general,globo|globos,
+Mascarilla o guantes descartables,general,mascarilla|tapabocas|guantes|guantes de latex,Por higiene siempre van a general
+Colillas de cigarro,general,colilla|cigarro|ceniza,
+Taper de delivery con comida y envoltorios,reciclable,taper de delivery|delivery|caja de delivery con comida,Separalo en tres la comida al balde de organicos las servilletas cubiertos rigidos y sachets a general y el taper plastico enjuagado y seco a reciclable
+Pilas y baterias,especial,pila|bateria|pilas alcalinas|bateria de laptop,No las boto en los tachos de Sinba llevalas a un punto de acopio de RAEE
+Aparatos electronicos,especial,electronico|cargador|cable|audifonos|mouse|teclado|celular malogrado|laptop malograda|raee,Los residuos electronicos necesitan un punto de acopio especial no van con la recoleccion de Sinba
+Toner o cartucho de impresora,especial,toner|cartucho|tinta de impresora,Muchas marcas tienen programa de retorno de cartuchos
+Focos y lamparas,especial,foco|fluorescente|lampara|led fundido,Contienen materiales que requieren manejo especial
+Medicamentos vencidos,especial,medicina|pastillas|medicamento vencido,Llevalos a un punto de acopio de farmacia
