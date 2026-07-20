@@ -1,44 +1,80 @@
 nombre,tacho,sinonimos,nota
-Papel impreso o de oficina,reciclable,papel|hoja|hoja impresa|papel de oficina|hojas|papel bond,Debe estar limpio y seco
-Papel kraft,reciclable,kraft|papel kraft|bolsa kraft,Limpio y seco
-Revista o periodico,reciclable,revista|periodico|diario,Limpio y seco
-Caja de carton,reciclable,caja|carton|caja de carton|caja de courier|caja de delivery|caja de zapatos|cuaderno|libreta,Desarmala o doblala antes de botarla debe estar limpia y seca
-Botella de plastico,reciclable,botella|botella de agua|botella de gaseosa|botella pet|agua|gaseosa|coca cola|inca kola|cielo|san luis|pet,Vaciala enjuagala y secala antes de botarla
-Envase plastico de comida o taper,reciclable,tupper|taper|tapper|fiambrera|envase plastico|envase de comida|vaso de yogurt,Enjuagalo y sacalo debe quedar sin restos de comida
-Plastico film o bolsa plastica,reciclable,film plastico|bolsa plastica|bolsa de plastico|wrap|plastico film|envoltura plastica transparente|bolsa del super,Limpio y seco
-Plastico burbuja,reciclable,plastico burbuja|papel burbuja|burbujas|embalaje con burbujas,Limpio y seco
-Cubiertos de plastico flexibles que no se rompen al doblar,reciclable,cubiertos flexibles|cubiertos que no se rompen|cubiertos doblables|cubiertos blandos,Hazles la prueba doblalos si no se rompen van aqui
-Lata de bebida,reciclable,lata|lata de gaseosa|lata de cerveza|aluminio|lata de energizante|red bull,Enjuagala antes de botarla
-Lata de conserva o atun,reciclable,lata de atun|lata de conserva|lata de sardina|conserva,Enjuagala antes de botarla
-Envase o botella de vidrio entera,reciclable,frasco|frasco de vidrio|botella de vidrio|envase de vidrio|vidrio|copa,Debe estar entera no rota enjuagala
-Tetra Pak,reciclable,caja de leche|tetrapak|tetra pak|envase de jugo|caja de jugo|leche|caja de leche|rehidratante,Enjuagalo y aplastalo
-Restos de comida cruda o cocida,organico,comida|sobras|restos de almuerzo|restos de comida|comida sobrante|plato de comida,Al balde de organicos sin bolsa ni empaque
-Cascara de fruta,organico,cascara|cascara de platano|cascara de naranja|cascara de manzana|piel de fruta|fruta,
-Cascara de verdura,organico,cascara de papa|cascara de zanahoria|verdura|vegetal,
-Cascara de huevo,organico,cascara de huevo|huevo|cascaron,
-Restos carnicos,organico,hueso|huesos|carne|pollo|restos de carne|espina,
-Borra de cafe,organico,borra de cafe|residuo de cafe|cafe molido usado|posos,Solo el molido de cafe sin la bolsa filtrante ni el hilo
-Cubiertos o vajilla de bambu o caña,organico,cubiertos de bambu|cubiertos de caña|vajilla de bambu|palitos de bambu,
-Vaso de cafe descartable,general,vaso de carton|vaso descartable|vaso starbucks|vaso cafe|cafe|starbucks|vaso de coffee|vaso to go|polipapel,Parece carton pero tiene una capa interna plastificada aunque diga biodegradable va a general
-Empaque compostable o biodegradable,general,empaque biodegradable|empaque compostable|envase compostable|bioplastico,Si el interior se siente suave o plastificado al tacto no se recicla aunque diga compostable
-Cubiertos de plastico descartable,general,cubiertos descartables|tenedor plastico|cuchara plastica|cuchillo plastico|cubiertos|cubiertos rigidos,Hazles la prueba doblalos si se rompen van a general si no se rompen van a reciclable
-Bolsita de te usada,general,bolsa de te|te usado|saquito de te|filtrante,La bolsita y el hilo van a general si separas solo las hojas sueltas esas si van al balde de organicos
-Servilleta usada,general,servilleta|papel servilleta|servilletas sucias,
+Papel impreso o de oficina,reciclable,papel|hoja|hoja impresa|papel de oficina|hojas|papel bond|papel de colores|agenda|apuntes|documento|impresion|hoja membretada|hoja rayada|hoja cuadriculada|hoja reciclada|instructivo impreso|guia de remision|factura|libro viejo,Debe estar limpio y seco.
+Papel kraft,reciclable,kraft|papel kraft|bolsa kraft,Debe estar limpio y seco.
+Revista o periódico,reciclable,revista|periodico|diario|folleto|revistero,Debe estar limpio y seco.
+Caja de cartón,reciclable,caja|carton|caja de carton|caja de courier|caja de delivery|caja de zapatos|cuaderno|libreta|caja de pastel|caja de torta|bandeja de carton|casillero de carton|esquinero de carton|mini caja|tubo de carton|rollo de carton|cartulina,Desármala o dóblala para ahorrar espacio. Debe estar limpia y seca.
+Sobre o carpeta manila,reciclable,sobre manila|carpeta manila|folder manila|sobre,Debe estar limpio y seco. Retira el plástico de la ventanilla si lo tiene.
+Nota adhesiva o post-it,reciclable,post it|post-it|nota adhesiva|notas adhesivas,"El papel se recicla. Antes de botarlo, arranca la pequeña tira con pegamento: esa parte va a generales."
+Documento anillado o empastado,reciclable,anillado|documento anillado|empastado|bloc espiral,"Retira el espiral o gancho metálico y ponlo en generales. Las hojas de papel van a reciclables."
+"Calendario, agenda vencida o bloc de notas",reciclable,calendario|agenda vencida|bloc de notas,"Si tiene espiral metálico o tapa plástica, retíralo antes: ese va a generales."
+Tetra Pak,reciclable,caja de leche|tetrapak|tetra pak|envase de jugo|caja de jugo|leche|caja de leche|rehidratante|empaque tetra pak|empaque de jugo,"Ábrelo, enjuágalo y aplástalo antes de botarlo."
+Envase o botella de vidrio entera,reciclable,frasco|frasco de vidrio|botella de vidrio|envase de vidrio|vidrio|copa|frasco vacio|frasco de perfume|frasco de crema,"Debe estar entera, no rota. Enjuágala. Por seguridad, el vidrio roto nunca se recicla."
+Lata de bebida,reciclable,lata|lata de gaseosa|lata de cerveza|aluminio|lata de energizante|red bull|chapa|corona metalica,"Enjuágala bien, sin restos de grasa ni aceite."
+Lata de conserva o atún,reciclable,lata de atun|lata de conserva|lata de sardina|conserva,"Enjuágala bien, sin restos de grasa ni aceite."
+Cable o perfil de plástico,reciclable,cable|pvc|plastico 3|perfil plastico,"Este tipo de plástico (código 3) se recicla, para cables y perfiles específicos."
+Plástico film o bolsa plástica limpia,reciclable,film plastico|bolsa plastica|bolsa de plastico|wrap|plastico film|envoltura plastica transparente|bolsa del super|plastico 4|ldpe|bolsa ziploc|bolsa de hielo|lamina plastica|forro plastico|resma vacia|celofan,Debe estar limpio y seco.
+Plástico de burbujas,reciclable,plastico burbuja|papel burbuja|burbujas|embalaje con burbujas,Debe estar limpio y seco.
+Botella de plástico,reciclable,botella|botella de agua|botella de gaseosa|botella grande|botella pet|agua|agua mineral|gaseosa|coca cola|inca kola|cielo|san luis|pet|plastico 1|bebida energetica|bebida isotonica|bebida proteica|refresco,"Vacíala y enjuágala antes de botarla."
+Envase plástico de limpieza o shampoo,reciclable,envase de shampoo|envase de detergente|envase de limpieza|shampoo|detergente|hdpe|plastico 2,Enjuágalo si tuvo contacto con comida.
+Envase plástico de comida o táper,reciclable,tupper|taper|tapper|fiambrera|envase plastico|envase de comida|vaso de yogurt|envase de yogurt|envase de helado|envase de crema|bandeja de plastico|comida para llevar|vaso de plastico|pp|plastico 5|envase,"Enjuágalo, sin restos de comida. Si tienes dudas, revisa el número dentro del triángulo en la base: 1, 2, 3, 4 o 5 se reciclan; 6 o 7 van a generales."
+Tapa de botella,reciclable,tapa|tapa de botella|tapa plastica|chapita|corcholata,"Va por separado, no la dejes puesta en la botella."
+Cubiertos de plástico flexibles que no se rompen al doblar,reciclable,cubiertos flexibles|cubiertos que no se rompen|cubiertos doblables|cubiertos blandos,"Hazles la prueba: dóblalos. Si se doblan sin romperse, van aquí."
+Sorbete / cañita / pajita,reciclable,sorbete|sorbetes|cañita|cañitas|pajita|pajitas|popote|pitillo,"Es plástico tipo 5, igual que la tapa de botella. Debe estar limpio."
+Restos de comida cruda o cocida,organico,comida|sobras|restos de almuerzo|restos de comida|comida sobrante|plato de comida|arroz|comida de casa|pan dulce|pan integral|pan frances|sandwich,"Va directo al balde de orgánicos, sin bolsa ni empaque."
+Cáscara de fruta,organico,cascara|cascara de platano|cascara de naranja|cascara de manzana|cascara de mandarina|cascara de mango|cascara de piña|cascara de palta|cascara de aguacate|piel de fruta|fruta,
+Cáscara de verdura,organico,cascara de papa|cascara de zanahoria|verdura|vegetal|semillas,
+Cáscara de huevo,organico,cascara de huevo|huevo|cascaron,
+Restos cárnicos y huesos,organico,hueso|huesos|carne|pollo|pescado|restos de carne|espina,Los huesos de cualquier tamaño van al balde de orgánicos.
+Borra de café,organico,borra de cafe|residuo de cafe|cafe molido usado|posos|orujo|filtro de cafe,"Solo el molido o filtro de papel con café. La bolsita de té y su hilo van a generales."
+Bolsita de té usada,organico,bolsa de te|te usado|saquito de te|filtrante,"Corta la bolsita: solo las hojas de té van al balde de orgánicos. La grapa, el hilo y el papel exterior van a generales."
+Cubiertos o vajilla de bambú / madera / caña,organico,cubiertos de bambu|cubiertos de madera|cubiertos de caña|vajilla de bambu|palitos chinos|palitos de bambu|envase de fibra natural|palito de helado,
+Removedor o palito para café,general,removedor|palito de cafe|agitador de cafe|palito removedor,"Si es de madera, va a orgánicos. Si es de plástico, va a generales."
+Vaso de café descartable,general,vaso de carton|vaso descartable|vaso starbucks|vaso cafe|cafe|starbucks|vaso de coffee|vaso to go|polipapel|vaso de maquina|vaso de cafe de maquina|taza descartable,"Por fuera parece cartón, pero por dentro tiene una capa de plástico fundida para que no filtre líquido. Aunque diga biodegradable o compostable, esa mezcla no se puede separar. Siempre va a generales."
+Empaque biodegradable o compostable,general,empaque biodegradable|empaque compostable|envase compostable|bioplastico|compostable|biodegradable,"Si el interior se siente suave o plastificado al tacto, no se recicla aunque el empaque lo indique."
+Cubiertos de plástico descartable,general,cubiertos descartables|tenedor plastico|cuchara plastica|cuchillo plastico|cubiertos|cubiertos rigidos|cubiertos de cumpleaños|cubiertos de fiesta|cuchara|cuchillo|tenedor|cuchara descartable|cuchillo descartable,"Hazles la prueba: dóblalos. Si se rompen, van a generales. Si se doblan sin romperse, van a reciclables."
+Servilleta usada,general,servilleta|papel servilleta|servilletas sucias,El papel con grasa o restos de comida no se recicla.
 Papel toalla usado,general,papel toalla|toalla de papel,
-Papel higienico usado,general,papel higienico|papel baño,
-Envoltura de snack sachet o salsa,general,envoltura|bolsa de snack|paquete de papas|sachet|sobre de salsa|envoltorio metalizado|piqueo|bolsa de piqueo,
-Plato o vaso de tecnopor,general,tecnopor|plato tecnopor|icopor|vaso tecnopor|poliestireno|plastico 6|plastico numero 6,
-Envase acrilico o plastico rigido tipo 7,general,acrilico|plastico rigido transparente|plastico numero 7|plastico 7,
-Vaso plato o vidrio roto,general,vaso roto|plato roto|vidrio roto|copa rota|taza rota|ceramica rota,Por seguridad el vidrio o ceramica rota va a general nunca a reciclables envuelvelo antes de botarlo
-Lapicero o plumon,general,lapicero|lapiceros|plumon|plumones|boligrafo,
-Capsula de cafe,general,capsula de cafe|capsula nespresso|capsula dolce gusto,
-Voucher o comprobante termico,general,voucher|boleta termica|ticket|comprobante,
+Papel higiénico usado,general,papel higienico|papel baño,
+Envoltura o sachet de snack y salsas,general,envoltura|empaque de snack|bolsa de snack|paquete de papas|paquete de galletas|sachet|sobre de salsa|mayonesa|ketchup|envoltorio metalizado|piqueo|bolsa de piqueo|snack|snacks|empaque de sandwich|empaque de chocolate|empaque de cafe|empaque de te|empaque de caramelos|empaque de alfajor|empaque de brownie|empaque de muffin|empaque de dona|empaque de croissant|empaque de galleton|empaque de frutos secos|empaque de cancha|empaque de gomitas|empaque de chicle|empaque de barra energetica|empaque de avena|empaque de cereal|empaque de granola|chocolate|caramelo|caramelo envuelto|galleta|dulce|postre|cupcake|malvavisco|wrapper|barra de cereal|paquete de azucar|paquete de sal|paquete de mostaza|paquete de aji|paquete de mermelada|paquete de mantequilla|bolsa de cafe|bolsa metalizada,Son laminados mixtos de plástico y aluminio que no se pueden separar.
+Lata o tubo de snacks tipo Pringles,general,pringles|lata de pringles|tubo de papas,"Combina cartón, metal y plástico en una sola pieza, por eso no se puede separar."
+Plato o vaso de tecnopor,general,tecnopor|plato tecnopor|icopor|vaso tecnopor|poliestireno|plastico 6|plastico numero 6|ps,Este tipo de plástico no se puede reciclar.
+Plato descartable de cumpleaños o fiesta,general,plato de fiesta|plato de cumpleaños|plato plastico|plato descartable,
+Envase acrílico o plástico rígido,general,acrilico|plastico rigido transparente|plastico numero 7|plastico 7|policarbonato|otros|visor plastico|blister,Este tipo de plástico es una mezcla que no se puede reciclar fácilmente.
+Vouchers y boletas,general,voucher|boleta termica|ticket|comprobante|boleta|ticket de compra|recibo|ticket de estacionamiento|ticket de peaje|ticket de supermercado|tarjeta de embarque|comprobante pos,El papel térmico tiene químicos que contaminan el reciclaje de papel.
+Lapicero o plumón,general,lapicero|lapiceros|plumon|plumones|boligrafo|corrector|corrector liquido|limpiatipo|lapiz|lapiz de color|marcador|marker|rotulador|resaltador|marcador permanente|marcador borrable|marcador fluorescente|portaminas|boli|capuchon de lapicero|capuchon de plumon|plumilla|borrador,
 Globo,general,globo|globos,
-Mascarilla o guantes descartables,general,mascarilla|tapabocas|guantes|guantes de latex,Por higiene siempre van a general
+Vajilla o vidrio roto,general,vaso roto|plato roto|vidrio roto|copa rota|taza rota|ceramica rota|vajilla dañada|pizarra rota,"Por seguridad, la cerámica y el vidrio roto van a generales, nunca a reciclables. Envuélvelo antes de botarlo."
+Cápsula de café,general,capsula de cafe|capsula nespresso|capsula dolce gusto,"Sea de aluminio o de plástico, no se recicla como material simple."
+Mascarilla o guantes descartables,general,mascarilla|tapabocas|cubrebocas|guantes|guantes de latex|guante descartable,"Por higiene, siempre van a generales."
 Colillas de cigarro,general,colilla|cigarro|ceniza,
-Taper de delivery con comida y envoltorios,reciclable,taper de delivery|delivery|caja de delivery con comida,Separalo en tres la comida al balde de organicos las servilletas cubiertos rigidos y sachets a general y el taper plastico enjuagado y seco a reciclable
-Pilas y baterias,especial,pila|bateria|pilas alcalinas|bateria de laptop,No las boto en los tachos de Sinba llevalas a un punto de acopio de RAEE
-Aparatos electronicos,especial,electronico|cargador|cable|audifonos|mouse|teclado|celular malogrado|laptop malograda|raee,Los residuos electronicos necesitan un punto de acopio especial no van con la recoleccion de Sinba
-Toner o cartucho de impresora,especial,toner|cartucho|tinta de impresora,Muchas marcas tienen programa de retorno de cartuchos
-Focos y lamparas,especial,foco|fluorescente|lampara|led fundido,Contienen materiales que requieren manejo especial
-Medicamentos vencidos,especial,medicina|pastillas|medicamento vencido,Llevalos a un punto de acopio de farmacia
+Goma de mascar o chicle,general,chicle|goma de mascar|chicle usado,
+Mica o funda plástica,general,mica|micas|funda plastica|porta papeles plastico|folder plastico|celofan,
+Grapa o gancho de grapadora,general,grapa|grapas|gancho de grapadora|grampa|corchete|grapas usadas,
+Imperdible o alfiler,general,imperdible|imperdibles|alfiler|alfileres,
+Imán,general,iman|imanes,
+Tubo de pasta de dientes,general,pasta de dientes|pasta dental|tubo de pasta,Combina varias capas de material que no se pueden separar.
+Cepillo de dientes,general,cepillo de dientes|cepillo dental,
+Botón,general,boton|botones,
+CD o DVD,general,cd|dvd|disco compacto|memoria sd|micro sd,Combina plástico y una capa metálica que no se puede separar.
+"Envase con atomizador, gel o desinfectante",general,atomizador|rociador|difusor ambiental|dispensador vacio|desinfectante|gel antibacterial|desodorante,El mecanismo de bomba mezcla varios materiales que no se pueden separar.
+Toallita húmeda o paño desechable,general,toalla humeda|toallita desinfectante|paño desechable|paño de microfibra,
+"Hisopo, esponja o curita",general,hisopo|esponja|curita|curitas|banda adhesiva|algodon|hilo dental,
+Confeti,general,confeti,
+Vela,general,vela|velas,
+Tarjeta o credencial plástica,general,tarjeta de presentacion|tarjeta de regalo|tarjeta magnetica|tarjeta vencida|identificador|escarapela|cordon porta carnet|lanyard|colgador de credencial|porta credencial|pulsera de evento|vincha|billetera de papel,
+"Cúter, cutter o abrecartas",general,cutter|cuter|abrecartas|repuesto de cutter,Es un objeto cortante. Envuélvelo antes de botarlo para evitar accidentes.
+"Candado, llave o llavero roto",general,candado|llave|llavero roto|correa de reloj|cordon de zapato|percha,
+Clip o sujetapapeles,general,clip|clips|clip mariposa|sujetapapeles|sujetador metalico|pinza sujetapapeles|pinza|gancho binder|gancho negro|gancho mariposa|broche,
+Cinta adhesiva o precinto,general,cinta adhesiva|cinta de embalaje|cinta doble cara|cinta masking|cinta transparente|precinto|brida plastica|liga|elastico|liga de pelo|liguita|banda elastica,
+"Goma, silicona o pegamento",general,pegamento|goma en barra|goma liquida|silicona|silicona liquida|silicona en barra|sellador,
+Carpeta o archivador de plástico,general,carpeta|folder|archivador|divisor de carpetas|dossier|folder colgante|porta documentos|anillo metalico|aro de carpeta|bandeja organizadora|porta lapiceros roto|porta notas|porta clips|faja archivadora,
+"Etiqueta, sticker o pegatina",general,etiqueta|etiqueta adhesiva|etiqueta de envio|etiqueta de precio|etiqueta termica|sticker|pegatina|vinil adhesivo|papel de sticker|rollo de etiquetas|rollo de stickers,
+Regla o percha,general,regla,
+Papel de regalo,general,papel de regalo|mantel de papel,
+Papel aluminio o papel plata,general,papel aluminio|papel plata|foil|aluminio de cocina,"Si tiene restos de comida va a generales. Si está limpio, puedes juntarlo con las latas."
+Táper de delivery con comida y envoltorios,reciclable,taper de delivery|delivery|caja de delivery con comida|bolsa de delivery|caja de pizza|caja de hamburguesa|caja de sushi,"Sepáralo en 3 pasos: 1) las sobras de comida van al balde de orgánicos, 2) las servilletas, cubiertos rotos y sachets van a generales, 3) el táper se enjuaga y va a reciclables."
+Pilas y baterías,especial,pila|bateria|pilas alcalinas|bateria de laptop|pilas aa|pilas aaa,"No van en estos tachos. Llévalas al punto de acopio de RAEE (Residuos de Aparatos Eléctricos y Electrónicos) del área de TIC."
+Aparatos electrónicos,especial,electronico|cargador|cable electronico|audifonos|mouse|teclado|celular malogrado|laptop malograda|raee|cable usb|cable usb-c|cable lightning|cable hdmi|cable vga|cable ethernet|cable de poder|cable de red|adaptador usb|adaptador hdmi|conector usb|memoria usb dañada|bateria externa|carga portatil|mouse dañado|teclado dañado|audifonos dañados|audifonos descartables|microfono roto|calculadora dañada|temporizador|soporte para celular|soporte para laptop|protector de pantalla|protector de cables|limpiador de pantalla|puntero laser,"Son RAEE (Residuos de Aparatos Eléctricos y Electrónicos). Llévalos al punto de acopio del área de TIC, no van con la recolección normal."
+Tóner o cartucho de impresora,especial,toner|cartucho|tinta de impresora|cartucho de tinta|recarga de tinta|jeringa de tinta|cartucho de toner,Muchas marcas tienen programa de retorno de cartuchos.
+Focos y lámparas,especial,foco|fluorescente|lampara|led fundido|bombilla led,Contienen materiales que requieren manejo especial.
+Medicamentos vencidos,especial,medicina|pastillas|medicamento vencido|blister de medicamentos,Llévalos a un punto de acopio de farmacia.

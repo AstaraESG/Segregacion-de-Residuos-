@@ -286,6 +286,14 @@ body {
   color: var(--navy);
 }
 
+.no-result__fallback {
+  font-family: var(--font-head);
+  font-weight: 700;
+  font-size: 15px;
+  color: var(--orange);
+  margin: 0 0 16px;
+}
+
 .no-result ul {
   margin: 0 0 14px;
   padding-left: 20px;
@@ -332,6 +340,92 @@ body {
 }
 
 .chip:hover { border-color: var(--amber); color: var(--navy); }
+
+.tip-banner {
+  margin: 20px 0 0;
+  background: #FFF4E0;
+  color: var(--navy);
+  border-radius: 12px;
+  padding: 12px 18px;
+  font-size: 13.5px;
+  font-style: italic;
+  text-align: center;
+}
+
+/* ---------- Guía de plásticos ---------- */
+
+.plastics-guide {
+  margin-top: 36px;
+}
+
+.plastics-guide summary {
+  cursor: pointer;
+  text-align: center;
+  font-family: var(--font-head);
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--navy);
+  padding: 12px 16px;
+  border: 1px solid var(--grey-100);
+  border-radius: 12px;
+  list-style: none;
+}
+
+.plastics-guide summary::-webkit-details-marker { display: none; }
+
+.plastics-guide summary::after {
+  content: '↓';
+  margin-left: 8px;
+  color: var(--orange);
+}
+
+.plastics-guide details[open] summary::after {
+  content: '↑';
+}
+
+.plastics-guide__intro {
+  text-align: center;
+  font-size: 13px;
+  color: var(--grey-500);
+  margin: 16px 0 14px;
+}
+
+.plastics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(84px, 1fr));
+  gap: 10px;
+}
+
+.plastic-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 8px 14px;
+  border-radius: 12px;
+}
+
+.plastic-card img {
+  height: 44px;
+  width: auto;
+}
+
+.plastic-card__tag {
+  font-family: var(--font-head);
+  font-weight: 700;
+  font-size: 10.5px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  padding: 3px 8px;
+  border-radius: 999px;
+  color: var(--white);
+}
+
+.plastic-card--ok { background: var(--bin-reciclable-bg); }
+.plastic-card--ok .plastic-card__tag { background: var(--bin-reciclable); }
+
+.plastic-card--no { background: var(--bin-general-bg); }
+.plastic-card--no .plastic-card__tag { background: var(--bin-general); }
 
 /* ---------- Footer ---------- */
 
